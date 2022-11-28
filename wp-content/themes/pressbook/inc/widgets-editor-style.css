@@ -1,0 +1,20 @@
+.wp-block h1,
+.wp-block h2 {
+	font-size: 1.1em;
+}
+
+.wp-block h3 {
+	font-size: 1.08em;
+}
+
+.wp-block h4 {
+	font-size: 1.05em;
+}
+
+.wp-block h5 {
+	font-size: 1.02em;
+}
+
+.wp-block h6 {
+	font-size: 1em;
+}

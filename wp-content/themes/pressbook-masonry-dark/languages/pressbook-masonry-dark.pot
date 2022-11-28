@@ -1,0 +1,562 @@
+# Copyright (C) 2022 ScriptsTown
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: PressBook Masonry Dark 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pressbook-masonry-dark\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-14T04:16:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: pressbook-masonry-dark\n"
+
+#. Theme Name of the theme
+msgid "PressBook Masonry Dark"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://scriptstown.com/wordpress-themes/pressbook-masonry-dark/"
+msgstr ""
+
+#. Description of the theme
+msgid "PressBook Masonry Dark is an excellent dark WordPress theme for blogging, news, magazines, and educational websites. The features include a masonry grid layout with flexible columns and multiple options, patterns, page templates, RTL language, single and double sidebars, a centered header area, accessible and multi-level dropdown menu with search form, top menu, social links menu, footer widgets, background image, color and typography options, and many great features. Use this multipurpose theme to quickly create eye-catching, modern, unique, and powerful websites for entertainment, photography, movies, gaming, animes, manga, comics, etc. With its minimalistic and magnificent design, this is perfectly suitable for photobloggers, professional artists, musicians, photographers, gamers, and vloggers for publishing and posting stories, product reviews, videos, images, personal blogs, and study materials like documentation, guides, and tutorials. It offers a simple, clean, and pixel-perfect layout with many places for advertisement banners. The block areas allow you to place any customized blocks like sliders, gallery, portfolios, services, or any shortcodes. With an awesome dark look with a beautiful colors scheme, this theme can also be the right choice for websites related to technology, gadgets, sports, travel, schools, academy, and institutions. It supports WooCommerce for creating eCommerce shopping sites and infinite scrolling or load more using the Jetpack plugin. This elegant dark theme is also lightweight, minimal, and SEO-friendly offering high performance and fast loading time that also suits websites for affiliates and digital marketing agency, bloggers, freelancers, and story writers."
+msgstr ""
+
+#. Author of the theme
+msgid "ScriptsTown"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://scriptstown.com/"
+msgstr ""
+
+#: functions.php:105
+msgctxt "page title"
+msgid "PressBook Masonry Dark"
+msgstr ""
+
+#: functions.php:116
+msgctxt "menu title"
+msgid "PressBook Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:22
+msgid "PressBook"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:46
+msgid "3-Column Content"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:54
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:103
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:58
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:107
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:64
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:119
+msgid "Vestibulum auctor"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:68
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:123
+msgid "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:74
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:135
+msgid "Aliquam tincidunt"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:78
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:139
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:310
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:324
+msgid "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:95
+msgid "3-Column Content with Buttons"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:112
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:128
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:144
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:184
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:223
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:257
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:273
+msgid "Read More"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:162
+msgid "2-Column Media with List and Button (Dark)"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:169
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:208
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:175
+msgid "Praesent dapibus"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:179
+msgid "Lorem ipsum dolor sit amet."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:179
+msgid "Aliquam tincidunt mauris eu risus."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:179
+msgid "Nunc dignissim risus id metus."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:179
+msgid "Cras ornare tristique elit."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:201
+msgid "2-Column Media with Text and Button (Round Black)"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:208
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:248
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:264
+msgid "Office Desk"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:214
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:302
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:316
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:218
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:240
+msgid "2-Column Media with Text and Button (Center)"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:252
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:268
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:291
+msgid "2-Column Headings with Text (Dark)"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:296
+msgid "Aliquam tincidunt mauris eu risus"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:306
+#: inc/classes/class-pressbook-masonry-dark-block-patterns.php:320
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, pede."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Inter, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-dark-editor.php:79
+msgctxt "Inter font (in the editor): on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Philosopher, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-dark-editor.php:85
+msgctxt "Philosopher font (in the editor): on or off"
+msgid "on"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:83
+msgid "Masonry Grid - Columns Margin"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:84
+msgid "Adjust the margin between columns with a pixel value. Default: 24"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:112
+msgid "Number Of Columns (2xl) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:113
+msgid "Extra Large (2xl) Screen-Devices. Default: 3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:141
+msgid "Number Of Columns (xl) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:142
+msgid "Extra Large (xl) Screen-Devices. Default: 3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:170
+msgid "Number Of Columns (lg) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:171
+msgid "Large (lg) Screen-Devices. Default: 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:199
+msgid "Number Of Columns (md) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:200
+msgid "Medium (md) Screen-Devices. Default: 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:228
+msgid "Number Of Columns (sm) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:229
+msgid "Small (sm) Screen-Devices. Default: 1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:257
+msgid "Number Of Columns (xs) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:258
+msgid "Extra Small (xs) Screen-Devices. Default: 1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:324
+msgid "Post Card Shadow Effect"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:325
+msgid "Show shadow effect around the post card."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:368
+msgid "Hide summary for all posts in a grid."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:369
+msgid "Show summary only when there is no featured image."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:370
+msgid "Show summary even when there is featured image."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:372
+msgid "Post Card Summary"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:373
+msgid "Select when to show the post summary in the posts grid."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:468
+msgctxt "Number of columns - Masonry"
+msgid "1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:469
+msgctxt "Number of columns - Masonry"
+msgid "2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:470
+msgctxt "Number of columns - Masonry"
+msgid "3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:471
+msgctxt "Number of columns - Masonry"
+msgid "4"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:472
+msgctxt "Number of columns - Masonry"
+msgid "5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:473
+msgctxt "Number of columns - Masonry"
+msgid "6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-options.php:474
+msgctxt "Number of columns - Masonry"
+msgid "7"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-primarynavbar.php:44
+msgid "Primary Navbar Hover Background Color"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:38
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:256
+msgid "Related Posts"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:39
+msgid "You can customize the related posts options in here."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:65
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:90
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:91
+msgid "You can change the heading of the related posts that is shown below the single post content."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:117
+msgid "Categories"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:118
+msgid "Tags"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:120
+msgid "Related Posts Based On"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:121
+msgid "Select the source for related posts to display. Default: Categories"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:147
+msgid "Related Posts Count"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:148
+msgid "Set the number of related posts. Default: 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:174
+msgid "Related Posts Order"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:175
+msgid "Designates the ascending or descending order. Default: Latest First"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:201
+msgid "Related Posts Order By"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:202
+msgid "Sort retrieved related posts by parameter. Default: Random Order"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:227
+msgid "Show Taxonomy On Hover"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:228
+msgid "Whether to show the post category or tag on hover."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:324
+msgid "All Posts"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:325
+msgid "Posts from Selected Categories"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:326
+msgid "Posts from Selected Tags"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:337
+msgctxt "Related Posts Count"
+msgid "1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:338
+msgctxt "Related Posts Count"
+msgid "2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:339
+msgctxt "Related Posts Count"
+msgid "3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:340
+msgctxt "Related Posts Count"
+msgid "4"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:341
+msgctxt "Related Posts Count"
+msgid "5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:342
+msgctxt "Related Posts Count"
+msgid "6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:343
+msgctxt "Related Posts Count"
+msgid "7"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:344
+msgctxt "Related Posts Count"
+msgid "8"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:345
+msgctxt "Related Posts Count"
+msgid "9"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:346
+msgctxt "Related Posts Count"
+msgid "10"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:347
+msgctxt "Related Posts Count"
+msgid "11"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:348
+msgctxt "Related Posts Count"
+msgid "12"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:359
+msgid "Latest First"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:360
+msgid "Oldest First"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:371
+msgid "Random Order"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:372
+msgid "Post Date"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-related-posts.php:373
+msgid "Last Modified Date"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Inter, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-dark-scripts.php:83
+msgctxt "Inter font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Philosopher, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-dark-scripts.php:89
+msgctxt "Philosopher font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:32
+msgctxt "Default: Logo Size (Small-Screen Devices)"
+msgid "Default: Size 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:33
+msgctxt "Default: Logo Size (Medium-Screen Devices)"
+msgid "Default: Size 5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:34
+msgctxt "Default: Logo Size (Large-Screen Devices)"
+msgid "Default: Size 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:36
+msgctxt "Default: Site Title Size (Small-Screen Devices)"
+msgid "Default: Size 3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:37
+msgctxt "Default: Site Title Size (Medium-Screen Devices)"
+msgid "Default: Size 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:38
+msgctxt "Default: Site Title Size (Large-Screen Devices)"
+msgid "Default: Size 5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:40
+msgctxt "Default: Tagline (Small-Screen Devices)"
+msgid "Default: Size 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:41
+msgctxt "Default: Tagline (Medium-Screen Devices)"
+msgid "Default: Size 4"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:42
+msgctxt "Default: Tagline (Large-Screen Devices)"
+msgid "Default: Size 5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:107
+msgid "Size 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:108
+msgid "Size 7"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-dark-siteidentity.php:109
+msgid "Size 8"
+msgstr ""
+
+#. translators: %s: search query
+#: index.php:53
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:28
+msgid "Previous Post:"
+msgstr ""
+
+#: single.php:30
+msgid "Next Post:"
+msgstr ""
+
+#. translators: %s: theme name with URL
+#: template-parts/footer/copyright-text.php:26
+msgctxt "footer credit"
+msgid "Powered by %s"
+msgstr ""
+
+#: template-parts/header/top-navbar.php:18
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/header/top-navbar.php:34
+msgid "Social Links"
+msgstr ""

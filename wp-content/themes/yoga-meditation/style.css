@@ -1,0 +1,176 @@
+/*
+Theme Name: Yoga Meditation
+Theme URI: https://www.ovationthemes.com/wordpress/free-meditation-wordpress-theme/
+Author: pewilliams
+Author URI: https://www.ovationthemes.com/
+Description: Yoga Meditation is a theme inspired by yoga instruction and meditation centres. Yoga may be the theme created to be used on a Yoga or a blog site. This theme will ensure that your website is built to stand the test of time and stand out from the rest. It is designed with the utmost attention to detail as Yoga Fitness. You can develop a website that promotes yoga classes, fitness centres, gym meditation classes, wellness centres, spa beauty salons, massage centres and more. The theme also offers Medical or therapy-related services. The theme is designed for speed, which is why the loading times of the pages are quicker. It's translation ready and supports RTL layout. It is possible to include shortcodes to enhance the performance of your site. It's safe and properly coded. The theme has sections such as a Banner that include CTA buttons and testimonials, services team, testimonials, and additional sections that provide comprehensive information about your business. It will also make your visitors customers.
+Version: 0.1
+Requires at least: 5.0
+Requires PHP: 7.2
+Tested up to: 6.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: yoga-meditation
+Template: yoga-studio
+Tags: one-column, two-columns, right-sidebar, left-sidebar, grid-layout, full-width-template, sticky-post, block-styles, custom-colors, custom-background, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, threaded-comments, wide-blocks, food-and-drink, portfolio, e-commerce
+
+Yoga Meditation WordPress Theme, Copyright 2022 pewilliams
+Yoga Meditation is distributed under the terms of the GNU GPL
+
+Yoga Meditation WordPress Theme is child theme of Yoga Studio WordPress Theme, Copyright 2022 pewilliams
+Yoga Studio WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Lora', serif;
+}
+span.entry-author a,.comment-author a,.product_meta a,.widget_text a,.postbox a,.comment-content a,.entry-content a{
+    text-decoration: underline;
+}
+body {
+    color: #82828c;
+}
+.gb_nav_menu ul ul,.top_btn a,a.more-link,.prev.page-numbers, .next.page-numbers,.page-numbers.current,button.search-submit,#sidebar .tagcloud a:hover, .site-footer .tagcloud a:hover,.site-footer .search-form .search-submit,.site-info,nav.woocommerce-MyAccount-navigation ul li,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.wp-block-button .wp-block-button__link,.toggle-menu button,#slider .carousel-control-next-icon, #slider .carousel-control-prev-icon,.home-btn a, .box-button a,button, input[type="button"], input[type="submit"] {
+    background: #db4242;
+}
+.links i,a,.logo h1 a,.logo h1, .site-title, .site-title a,.gb_nav_menu ul li a:active, .gb_nav_menu ul li a:hover,#Category-section .postbox.smallpostimage:hover h3 a,#sidebar th,#sidebar td,#sidebar select,#sidebar caption,.site-footer .widget-area a:hover,.home-btn a:hover,#services-box p,.box h4{
+    color: #db4242;
+}
+.sticky,.wp-block-quote:not(.is-large):not(.is-style-large),.wp-block-quote:not(.is-large):not(.is-style-large), blockquote{
+    border-color: #db4242;
+}
+.top_bar,.copyright,#slider .carousel-control-next-icon:hover, #slider .carousel-control-prev-icon:hover{
+    background: #412236;
+}
+h1, h2, h3, h4, h5, h6,.gb_nav_menu li a,#Category-section h3 a,#sidebar h3,a:hover, a:active,.logo p,.comment-body,#slider .carousel-caption h2,#slider .carousel-caption p,.box h4{
+    color: #412236;
+}
+#sidebar h3{
+    border-color: #412236;
+}
+.gb_nav_menu ul ul a:hover,.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price{
+    background: #fff;
+    color: #db4242 !important;
+}
+.site-footer .tagcloud a:hover{
+   color: #ffffff !important; 
+}
+
+/* --------- Header --------- */
+
+.top_bar, .menu_header{
+    border: none;
+}
+.top_bar span,.links i,#slider .carousel-caption h2 a{
+    color: #fff;
+}
+a.more-link,.top_btn a{
+    border-radius: 30px;
+}
+
+/* --------- Slider --------- */
+
+#slider {
+    background: #412236;
+}
+#slider .carousel-caption {
+    right: 25%;
+    left: 25%;
+    bottom: 20px;
+    top: auto;
+    transform: none;
+}
+#slider img {
+    opacity: 0.4;
+}
+
+/* --------- About --------- */
+
+.about-box h2 a{
+    font-size: 30px;
+    color: #412236;
+}
+
+#services-box h3{
+    letter-spacing: 0;
+}
+
+/* --------- loader --------- */
+
+.preloader{
+    background: #ffd3d3;
+}
+.load :first-child{
+    background: #db4242;
+    animation-delay:-1.5s;
+}
+.load :nth-child(2){
+    background:#412236;
+    animation-delay:-1s;
+}
+.load :nth-child(3){
+    background:#db4242;
+    animation-delay:-0.5s;
+}
+.load :last-child{
+    background:#412236;
+}
+.bypostauthor > .comment-body > .comment-meta > .comment-author .avatar {
+    border: 1px solid #323232;
+    padding: 2px;
+}
+
+/* Accessibility */
+/* Text meant only for screen readers. */
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+  outline: 0;
+}
+
+@media screen and (max-width: 425px){
+    #slider .carousel-caption {
+        position: absolute;
+        transform: translateY(-50%);
+        top: 50%;
+        right: 15%;
+    }
+    .gb_nav_menu ul ul{
+        background: transparent;
+    }
+}

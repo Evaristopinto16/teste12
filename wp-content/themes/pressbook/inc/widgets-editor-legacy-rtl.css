@@ -1,0 +1,270 @@
+body.pb-widgets-editor,
+body.pb-widgets-editor button,
+body.pb-widgets-editor input,
+body.pb-widgets-editor select,
+body.pb-widgets-editor optgroup,
+body.pb-widgets-editor textarea,
+body.pb-widgets-editor h1,
+body.pb-widgets-editor h2,
+body.pb-widgets-editor h3,
+body.pb-widgets-editor h4,
+body.pb-widgets-editor h5,
+body.pb-widgets-editor h6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+body.pb-widgets-editor {
+	color: #404040;
+	font-size: 15px;
+	font-size: .9375rem;
+	line-height: 1.75;
+	background: #ffffff !important;
+}
+
+@media screen and (min-width: 768px) {
+	body.pb-widgets-editor {
+		font-size: 16px;
+		font-size: 1rem;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	body.pb-widgets-editor {
+		font-size: 17px;
+		font-size: 1.0625rem;
+	}
+}
+
+body.pb-widgets-editor h1,
+body.pb-widgets-editor h2,
+body.pb-widgets-editor h3,
+body.pb-widgets-editor h4,
+body.pb-widgets-editor h5,
+body.pb-widgets-editor h6 {
+	line-height: 1.5;
+}
+
+body.pb-widgets-editor h1 {
+	margin: .67em 0;
+}
+
+body.pb-widgets-editor h2 {
+	margin: .73em 0;
+}
+
+body.pb-widgets-editor h3 {
+	margin: .8em 0;
+}
+
+body.pb-widgets-editor h4 {
+	margin: .89em 0;
+}
+
+body.pb-widgets-editor h5 {
+	margin: 1em 0;
+}
+
+body.pb-widgets-editor h6 {
+	margin: 1.14em 0;
+}
+
+body.pb-widgets-editor p {
+	margin-bottom: 1.5em;
+}
+
+body.pb-widgets-editor a {
+	text-decoration: underline;
+	transition: color .2s;
+}
+
+body.pb-widgets-editor a {
+	color: #166dd6;
+}
+
+body.pb-widgets-editor a:hover,
+body.pb-widgets-editor a:focus,
+body.pb-widgets-editor a:active {
+	color: #f69275;
+}
+
+body.pb-widgets-editor a:focus {
+	outline: thin dotted;
+}
+
+body.pb-widgets-editor a:focus:not(:focus-visible),
+body.pb-widgets-editor a:hover,
+body.pb-widgets-editor a:active {
+	outline: 0;
+}
+
+body.pb-widgets-editor p.has-text-color a,
+body.pb-widgets-editor p.has-text-color a:hover,
+body.pb-widgets-editor p.has-text-color a:focus,
+body.pb-widgets-editor p.has-text-color a:active {
+	color: inherit;
+}
+
+body.pb-widgets-editor ul,
+body.pb-widgets-editor ol {
+	margin: 1.5em 0 1.5em 0;
+	padding: 0;
+	list-style-position: inside;
+}
+
+body.pb-widgets-editor ul {
+	list-style-type: disc;
+}
+
+body.pb-widgets-editor ol {
+	list-style-type: decimal;
+}
+
+body.pb-widgets-editor li>ul,
+body.pb-widgets-editor li>ol {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 1.5em;
+}
+
+body.pb-widgets-editor li:not(:first-child) {
+	padding-top: .2em;
+}
+
+body.pb-widgets-editor li:not(:last-child) {
+	padding-bottom: .2em;
+}
+
+body.pb-widgets-editor li>ul>li:first-child,
+body.pb-widgets-editor li>ol>li:first-child {
+	padding-top: .4em;
+}
+
+body.pb-widgets-editor blockquote {
+	margin: 0 1.5em;
+}
+
+body.pb-widgets-editor .wp-block-quote p {
+	margin-bottom: .75em;
+}
+
+body.pb-widgets-editor .wp-block-quote.is-large p,
+body.pb-widgets-editor .wp-block-quote.is-style-large p {
+	font-size: 1.3em;
+}
+
+body.pb-widgets-editor .wp-block-quote__citation,
+body.pb-widgets-editor .wp-block-quote cite,
+body.pb-widgets-editor .wp-block-quote footer {
+	font-size: .85em;
+}
+
+body.pb-widgets-editor .wp-block-quote.is-large cite,
+body.pb-widgets-editor .wp-block-quote.is-large footer,
+body.pb-widgets-editor .wp-block-quote.is-style-large cite,
+body.pb-widgets-editor .wp-block-quote.is-style-large footer {
+	font-size: .95em;
+}
+
+body.pb-widgets-editor .wp-block-quote,
+body.pb-widgets-editor .wp-block-quote.is-large,
+body.pb-widgets-editor .wp-block-quote.is-style-large {
+	margin-bottom: 1.75em;
+}
+
+body.pb-widgets-editor .wp-block-pullquote {
+	padding: 2.4em 0;
+}
+
+body.pb-widgets-editor .wp-block-pullquote p {
+	font-size: 1.75em;
+	margin-bottom: 0;
+}
+
+body.pb-widgets-editor .wp-block-pullquote__citation,
+body.pb-widgets-editor .wp-block-pullquote cite,
+body.pb-widgets-editor .wp-block-pullquote footer {
+	display: block;
+	margin-top: 1.5em;
+}
+
+body.pb-widgets-editor .wp-block-pullquote.is-style-solid-color blockquote p {
+	font-size: 1.9em;
+}
+
+body.pb-widgets-editor .wp-block-pullquote.is-style-solid-color blockquote {
+	max-width: 70%;
+}
+
+body.pb-widgets-editor .wp-block-table,
+body.pb-widgets-editor .wp-block-video,
+body.pb-widgets-editor .wp-block-audio,
+body.pb-widgets-editor .wp-block-embed,
+body.pb-widgets-editor .wp-block-image,
+body.pb-widgets-editor .wp-block-gallery,
+body.pb-widgets-editor .wp-block-media-text,
+body.pb-widgets-editor .wp-block-calendar {
+	margin-bottom: 1.5em;
+}
+
+body.pb-widgets-editor .wp-block-table table,
+body.pb-widgets-editor .wp-block-calendar .wp-calendar-table {
+	margin-bottom: 0;
+}
+
+body.pb-widgets-editor .wp-block-calendar .wp-calendar-nav {
+	margin-top: .5em;
+}
+
+body.pb-widgets-editor .wp-block-image img {
+	display: block;
+}
+
+body.pb-widgets-editor .wp-block-table figcaption,
+body.pb-widgets-editor .wp-block-video figcaption,
+body.pb-widgets-editor .wp-block-embed figcaption,
+body.pb-widgets-editor .wp-block-image figcaption,
+body.pb-widgets-editor .wp-block-gallery figcaption {
+	font-size: .85em;
+}
+
+body.pb-widgets-editor .wp-block-table figcaption,
+body.pb-widgets-editor .wp-block-video figcaption,
+body.pb-widgets-editor .wp-block-embed figcaption {
+	margin-top: 1em;
+	margin-bottom: 0;
+}
+
+body.pb-widgets-editor .wp-block-audio figcaption {
+	margin-top: .75em;
+	margin-bottom: 0;
+	font-size: .8em;
+}
+
+body.pb-widgets-editor .wp-block-table.is-style-stripes {
+	border-bottom: 0;
+}
+
+body.pb-widgets-editor pre.wp-block-verse {
+	font-family: 'Courier 10 Pitch', courier, monospace;
+}
+
+body.pb-widgets-editor .wp-block-search .wp-block-search__button {
+	margin-right: 0;
+}
+
+body.pb-widgets-editor .wp-block-rss {
+	padding: 0;
+	list-style-type: none;
+}
+
+body.pb-widgets-editor .wp-block-rss .wp-block-rss__item:not(:last-child) {
+	margin-bottom: 1em;
+}
+
+body.pb-widgets-editor .wp-block-rss .wp-block-rss__item:not(:first-child) {
+	padding-top: 0;
+}
+
+body.pb-widgets-editor .wp-block-latest-comments__comment {
+	line-height: inherit;
+}

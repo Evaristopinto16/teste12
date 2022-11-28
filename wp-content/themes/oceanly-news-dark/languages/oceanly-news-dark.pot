@@ -1,0 +1,578 @@
+# Copyright (C) 2022 ScriptsTown
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Oceanly News Dark 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/oceanly-news-dark\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-15T04:06:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: oceanly-news-dark\n"
+
+#. Theme Name of the theme
+msgid "Oceanly News Dark"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://scriptstown.com/wordpress-themes/oceanly-news-dark/"
+msgstr ""
+
+#. Description of the theme
+msgid "Oceanly News Dark is a perfect, multipurpose dark theme for news, magazines, blogging, entertainment, and educational websites. It offers clean typography and an elegant design with featured posts grid section with many options, hero header with parallax effect and search form, background image, breadcrumbs navigation, page templates, accessible multi-level dropdown menu, block areas, sidebar, and multiple footer widgets. With its clean, magnificent, and eye-catching layout, this theme is perfectly suitable for bloggers, story writers, photobloggers, musicians, artists, photographers, vloggers, and gamers for posting and publishing stories, product reviews, movies, videos, images, photography, and educational materials like documentation, tutorials, and guides. With an awesome dark look with a beautiful colors scheme, this theme can also be a great choice for websites related to technology, gadgets, sports, gaming, anime, manga, and comics. Also, you can create websites for digital marketing agency, affiliates, travel, insurance, businesses, university firms, schools, institutions, academy, news portals, corporate, consulting, freelancing, or personal blogs. It works well with WooCommerce for an eCommerce shopping website and offers compatibility with Jetpack infinite scroll. In the block sections, you can place any custom blocks to showcase any features, services, gallery, sliders, carousels, portfolios, or testimonials. It is also a fully responsive, mobile-friendly, nicely built theme with a focus on accessibility, performance, usability, and user experience. This theme is SEO-friendly, dependency-free, minimal, and lightweight which can be a great starting point for creating fast, good-looking, unique, and powerful websites."
+msgstr ""
+
+#. Author of the theme
+msgid "ScriptsTown"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://scriptstown.com/"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:76
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:77
+msgid "You can configure the featured posts options in here."
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:103
+msgid "Enable Featured Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:144
+msgid "Show in Front Page"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:165
+msgid "Show in Blog Page"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:186
+msgid "Show in Archive Pages"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:207
+msgid "Show in Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:228
+msgid "Show in Pages"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:254
+msgid "All Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:255
+msgid "Posts from Selected Categories"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:256
+msgid "Posts from Selected Tags"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:258
+msgid "Featured Posts Source"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:259
+msgid "Default: All Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:294
+msgid "Featured Posts Categories"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:295
+msgid "Select the categories for the featured posts. You can select multiple categories by holding the CTRL key."
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:346
+msgid "Featured Posts Tags"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:347
+msgid "Select the tags for the featured posts. You can select multiple tags by holding the CTRL key."
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:398
+msgid "Featured Posts Count"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:399
+msgid "Set the number of featured posts. Default: 4"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:434
+#: inc/classes/class-oceanly-news-dark-related-posts.php:212
+msgid "Latest First"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:435
+#: inc/classes/class-oceanly-news-dark-related-posts.php:213
+msgid "Oldest First"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:437
+msgid "Featured Posts Order"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:438
+#: inc/classes/class-oceanly-news-dark-related-posts.php:216
+msgid "Designates the ascending or descending order. Default: Latest First"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:473
+#: inc/classes/class-oceanly-news-dark-related-posts.php:251
+msgid "Random Order"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:474
+#: inc/classes/class-oceanly-news-dark-related-posts.php:252
+msgid "Post Date"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:475
+#: inc/classes/class-oceanly-news-dark-related-posts.php:253
+msgid "Last Modified Date"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:477
+msgid "Featured Posts Order By"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:478
+msgid "Sort retrieved featured posts by parameter. Default: Random Order"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:512
+#: inc/classes/class-oceanly-news-dark-related-posts.php:290
+msgid "Show Post Label"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:546
+#: inc/classes/class-oceanly-news-dark-related-posts.php:324
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:580
+#: inc/classes/class-oceanly-news-dark-related-posts.php:358
+msgid "Fill Available Space"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:581
+#: inc/classes/class-oceanly-news-dark-related-posts.php:359
+msgid "Fill any available space by the columns in a row."
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:699
+msgctxt "Featured Posts Count"
+msgid "1"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:700
+msgctxt "Featured Posts Count"
+msgid "2"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:701
+msgctxt "Featured Posts Count"
+msgid "3"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:702
+msgctxt "Featured Posts Count"
+msgid "4"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:703
+msgctxt "Featured Posts Count"
+msgid "5"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:704
+msgctxt "Featured Posts Count"
+msgid "6"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:705
+msgctxt "Featured Posts Count"
+msgid "7"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:706
+msgctxt "Featured Posts Count"
+msgid "8"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:707
+msgctxt "Featured Posts Count"
+msgid "9"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:708
+msgctxt "Featured Posts Count"
+msgid "10"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:709
+msgctxt "Featured Posts Count"
+msgid "11"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:710
+msgctxt "Featured Posts Count"
+msgid "12"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:711
+msgctxt "Featured Posts Count"
+msgid "13"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:712
+msgctxt "Featured Posts Count"
+msgid "14"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-featured-posts.php:713
+msgctxt "Featured Posts Count"
+msgid "15"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:40
+msgid "Related Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:41
+msgid "You can configure the related posts options in here."
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:67
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:101
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:102
+msgid "You can change the heading of the related posts that are shown below the single post content."
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:137
+msgid "Categories"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:138
+msgid "Tags"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:140
+msgid "Related Posts Based On"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:141
+msgid "Select the source for related posts to display. Default: Categories"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:176
+msgid "Related Posts Count"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:177
+msgid "Set the number of related posts. Default: 4"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:215
+msgid "Related Posts Order"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:255
+msgid "Related Posts Order By"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:256
+msgid "Sort retrieved related posts by parameter. Default: Random Order"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:394
+msgid "You may also like"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:427
+msgctxt "Related Posts Count"
+msgid "1"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:428
+msgctxt "Related Posts Count"
+msgid "2"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:429
+msgctxt "Related Posts Count"
+msgid "3"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:430
+msgctxt "Related Posts Count"
+msgid "4"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:431
+msgctxt "Related Posts Count"
+msgid "5"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:432
+msgctxt "Related Posts Count"
+msgid "6"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:433
+msgctxt "Related Posts Count"
+msgid "7"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:434
+msgctxt "Related Posts Count"
+msgid "8"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:435
+msgctxt "Related Posts Count"
+msgid "9"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:436
+msgctxt "Related Posts Count"
+msgid "10"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:437
+msgctxt "Related Posts Count"
+msgid "11"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-related-posts.php:438
+msgctxt "Related Posts Count"
+msgid "12"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-upsell.php:36
+#: inc/classes/class-oceanly-news-dark-upsell.php:52
+msgid "Learn More"
+msgstr ""
+
+#: inc/classes/class-oceanly-news-dark-upsell.php:37
+#: inc/classes/class-oceanly-news-dark-upsell.php:53
+msgid "Premium version also includes top header bar, accent color, RGBA colors, fonts selector, multiple header and footer blocks."
+msgstr ""
+
+#. translators: %s: theme version number
+#: inc/welcome-page.php:23
+msgctxt "menu page heading"
+msgid "Oceanly News Dark <span>Version %s</span>"
+msgstr ""
+
+#: inc/welcome-page.php:36
+msgid "Customize Theme"
+msgstr ""
+
+#: inc/welcome-page.php:38
+msgid "You can customize the theme using the theme options available in the customizer."
+msgstr ""
+
+#: inc/welcome-page.php:42
+msgid "Theme Options"
+msgstr ""
+
+#: inc/welcome-page.php:47
+#: inc/welcome-page.php:54
+msgid "Header Image"
+msgstr ""
+
+#: inc/welcome-page.php:49
+msgid "You can change the header image in the Customizer > Header Image. Also, you can change the header background color from Customizer > Colors. For header image options, refer to Customizer > Hero Header."
+msgstr ""
+
+#: inc/welcome-page.php:53
+msgid "Hero Header"
+msgstr ""
+
+#: inc/welcome-page.php:59
+#: inc/welcome-page.php:65
+msgid "Menus"
+msgstr ""
+
+#: inc/welcome-page.php:61
+msgid "You can create a menu and assign it to a menu location. Oceanly News Dark comes with three menu locations which include primary menu, footer menu, and social links menu."
+msgstr ""
+
+#: inc/welcome-page.php:70
+msgid "Premium Version"
+msgstr ""
+
+#: inc/welcome-page.php:72
+msgid "Oceanly Premium comes with additional features:"
+msgstr ""
+
+#: inc/welcome-page.php:76
+msgid "Top Header Bar"
+msgstr ""
+
+#: inc/welcome-page.php:77
+msgid "Header Social Links"
+msgstr ""
+
+#: inc/welcome-page.php:78
+msgid "Header Top Menu"
+msgstr ""
+
+#: inc/welcome-page.php:79
+msgid "3 Header Block Areas"
+msgstr ""
+
+#: inc/welcome-page.php:80
+msgid "2 Footer Block Areas"
+msgstr ""
+
+#: inc/welcome-page.php:81
+msgid "6 Footer Widgets Locations"
+msgstr ""
+
+#: inc/welcome-page.php:84
+msgid "Custom Accent Colors"
+msgstr ""
+
+#: inc/welcome-page.php:85
+msgid "Custom Link Color"
+msgstr ""
+
+#: inc/welcome-page.php:86
+msgid "Custom Menu Color"
+msgstr ""
+
+#: inc/welcome-page.php:87
+msgid "Custom Breadcrumbs Color"
+msgstr ""
+
+#: inc/welcome-page.php:88
+msgid "Multiple Google Fonts"
+msgstr ""
+
+#: inc/welcome-page.php:89
+msgid "Option to Host Fonts Locally"
+msgstr ""
+
+#: inc/welcome-page.php:92
+msgid "Removable Footer Credit"
+msgstr ""
+
+#: inc/welcome-page.php:93
+msgid "Custom Header Height"
+msgstr ""
+
+#: inc/welcome-page.php:94
+msgid "RGBA Color Options"
+msgstr ""
+
+#: inc/welcome-page.php:95
+msgid "Dedicated Support"
+msgstr ""
+
+#: inc/welcome-page.php:96
+msgid "Advanced Theme Options"
+msgstr ""
+
+#: inc/welcome-page.php:97
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/welcome-page.php:100
+msgid "Get Premium"
+msgstr ""
+
+#: inc/welcome-page.php:105
+msgid "Colors & Background"
+msgstr ""
+
+#: inc/welcome-page.php:107
+msgid "You can customize the body background image in the Customizer > Background Image. Also, you can change the background color from Customizer > Colors."
+msgstr ""
+
+#: inc/welcome-page.php:111
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/welcome-page.php:112
+msgid "Background Image"
+msgstr ""
+
+#: inc/welcome-page.php:117
+msgid "Theme Widgets"
+msgstr ""
+
+#: inc/welcome-page.php:119
+msgid "You can drag and drop widgets to the widget area. Oceanly News Dark comes with 4 widgets area locations which include a main sidebar and three locations for footer widgets."
+msgstr ""
+
+#: inc/welcome-page.php:123
+msgid "Widgets"
+msgstr ""
+
+#: inc/welcome-page.php:128
+msgid "Header Block Area"
+msgstr ""
+
+#: inc/welcome-page.php:130
+msgid "You can enable the header block area by creating a block in the reusable block manager. Then select this block in the Customizer > Header Block Area. Oceanly News Dark comes with 1 header block area."
+msgstr ""
+
+#: inc/welcome-page.php:134
+msgid "Header Blocks"
+msgstr ""
+
+#: inc/welcome-page.php:135
+msgid "Reusable Blocks"
+msgstr ""
+
+#: inc/welcome-page.php:150
+msgctxt "page title"
+msgid "Oceanly News Dark"
+msgstr ""
+
+#: inc/welcome-page.php:151
+msgctxt "menu title"
+msgid "Oceanly Dark"
+msgstr ""
+
+#. translators: %s: Welcome page link.
+#: inc/welcome-page.php:173
+msgid "Welcome! Thank you for choosing Oceanly News Dark theme. To get started, visit our <a href=\"%s\">welcome page</a>."
+msgstr ""
+
+#: inc/welcome-page.php:182
+msgid "Get started with Oceanly News Dark"
+msgstr ""
+
+#: single.php:28
+msgid "Previous Post:"
+msgstr ""
+
+#: single.php:30
+msgid "Next Post:"
+msgstr ""
+
+#. translators: 1: theme name, 2: theme shop URL
+#: template-parts/footer/copyright.php:25
+msgid "Theme: %1$s by %2$s"
+msgstr ""

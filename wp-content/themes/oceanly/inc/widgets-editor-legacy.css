@@ -1,0 +1,18 @@
+body.oceanly-widgets-editor,
+body.oceanly-widgets-editor button,
+body.oceanly-widgets-editor input,
+body.oceanly-widgets-editor select,
+body.oceanly-widgets-editor optgroup,
+body.oceanly-widgets-editor textarea,
+body.oceanly-widgets-editor h1,
+body.oceanly-widgets-editor h2,
+body.oceanly-widgets-editor h3,
+body.oceanly-widgets-editor h4,
+body.oceanly-widgets-editor h5,
+body.oceanly-widgets-editor h6 {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+body.oceanly-widgets-editor {
+	background: #ffffff !important;
+}

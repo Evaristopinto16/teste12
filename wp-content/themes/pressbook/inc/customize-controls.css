@@ -1,0 +1,42 @@
+.control-section-pressbook-button .accordion-section-title:focus,
+.control-section-pressbook-button .accordion-section-title:hover {
+	background-color: #fff;
+}
+.control-section-pressbook-button .accordion-section-title .button {
+	margin-top: -4px;
+	margin-left: 8px;
+	font-weight: 600;
+	background: linear-gradient(90deg,#4169e1 35%,#5e82ed 100%);
+	border-color: #4169e1;
+	color: #fff;
+}
+.control-section-pressbook-button .accordion-section-title .button:focus {
+	box-shadow: 0 0 0 1px #fff, 0 0 0 3px #4169e1;
+}
+.rtl .control-section-pressbook-button .accordion-section-title .button {
+	margin-left: 0;
+	margin-right: 8px;
+}
+li#accordion-section-pressbook_premium .accordion-section-title,
+li#accordion-section-pressbook_premium.control-section-pressbook-button:hover .accordion-section-title {
+	color: #4169e1;
+}
+li#accordion-section-pressbook_premium.control-section-pressbook-button {
+	border-top: 1px solid #5e82ed;
+	border-bottom: 1px solid #5e82ed;
+}
+.customize-control-pressbook-addon {
+	margin-top: 10px;
+}
+.customize-control-pressbook-addon:before {
+	content: "";
+	height: 1px;
+	width: 44px;
+	display: block;
+	margin-bottom: 10px;
+	background: rgba(0,0,0,.1);
+}
+.customize-control-pressbook-addon .description {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
